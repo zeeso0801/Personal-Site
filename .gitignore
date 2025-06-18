@@ -1,0 +1,14 @@
+# Node modules and build output
+next-app/node_modules
+next-app/.next
+next-app/out
+next-app/build
+
+# Logs
+next-app/npm-debug.log*
+next-app/yarn-debug.log*
+next-app/yarn-error.log*
+
+# Mac/Linux
+.DS_Store
+
